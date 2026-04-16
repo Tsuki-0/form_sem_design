@@ -1,0 +1,8 @@
+C:\Users\LabInfo\source\repos\form_sem_design\bin\Debug\form_sem_design.exe.config
+C:\Users\LabInfo\source\repos\form_sem_design\bin\Debug\form_sem_design.exe
+C:\Users\LabInfo\source\repos\form_sem_design\bin\Debug\form_sem_design.pdb
+C:\Users\LabInfo\source\repos\form_sem_design\obj\Debug\apresentacao.csproj.AssemblyReference.cache
+C:\Users\LabInfo\source\repos\form_sem_design\obj\Debug\apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\source\repos\form_sem_design\obj\Debug\form_sem_design.exe
+C:\Users\LabInfo\source\repos\form_sem_design\obj\Debug\form_sem_design.pdb
+C:\Users\LabInfo\source\repos\form_sem_design\obj\Debug\form_sem_design.exe.config
